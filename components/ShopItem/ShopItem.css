@@ -1,0 +1,13 @@
+item h4{
+    font-weight: 400;
+    color: blue;
+}
+
+.item{
+    display: flex;
+    text-align: left;
+}
+
+.ratings{
+    color: #ffbd00;
+}
